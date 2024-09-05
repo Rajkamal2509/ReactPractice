@@ -1,0 +1,150 @@
+[ 
+    {
+      "id":"f668d7b650",
+      "uniqId":"3731dc641cM&M Serviceadmin",
+      "projectName":"M&M Service",
+      "productName":"XUV 700",
+      "assistantName":"Acumen360:M&M Service",
+      "questions":[{
+        "question":"Maintenance Check Sheet for 10K - Diesel MT"
+      },
+      {
+        "question":"How to Check the Engine Oil Level?"
+      },
+      {
+        "question":"How to perform Air Filter Element Removal Procedure?"
+      },
+      {
+        "question":"Explain DTC P062700"
+      },
+      {
+        "question":"Explain about Wheel Balancing"
+      },
+      {
+        "question":"Explain Clutch Cover and Disc Installation procedure"
+      },
+      {
+        "question":"Brief ADAS Brake Assist feature"
+      },
+      {
+        "question":"Give details about Pentalink Suspension with FDD Tech"
+      }
+      ]
+    },
+    {
+      "id":"vg36cbh9i1",
+      "uniqId":"3731dc641cM&M Serviceadmin",
+      "projectName":"M&M Service",
+      "productName":"XUV 700",
+      "assistantName":"Acumen360:M&M Service",
+      "questions":[{
+        "question":"Maintenance Check Sheet for 10K - Diesel MT"
+      },
+      {
+        "question":"How to Check the Engine Oil Level?"
+      },
+      {
+        "question":"How to perform Air Filter Element Removal Procedure?"
+      },
+      {
+        "question":"Explain DTC P062700"
+      },
+      {
+        "question":"Explain about Wheel Balancing"
+      },
+      {
+        "question":"Explain Clutch Cover and Disc Installation procedure"
+      },
+      {
+        "question":"Brief ADAS Brake Assist feature"
+      },
+      {
+        "question":"Give details about Pentalink Suspension with FDD Tech"
+      }
+      ]
+    },
+    {
+      "id":"9bikvp1m6u",
+      "uniqId":"3731dc641cM&M Serviceadmin",
+      "projectName":"A360: VW Virtus OM",
+      "productName":"Virtus",
+      "assistantName":"A360: VW Virtus OM",
+      "questions":[{
+        "question":"How to use start stop button?"
+      },
+      {
+        "question":"How to stop the vehicle safely?"
+      },
+      {
+        "question":"Explain about Keys, locks and alarm system"
+      },
+      {
+        "question":"How to deactivate keyless locking?"
+      },
+      {
+        "question":"Explain about Child safety lock on the rear doors"
+      },
+      {
+        "question":"How to rectify blocked belt retractor?"
+      },
+      {
+        "question":"Explain about App-Connect settings"
+      },
+      {
+        "question":"Explain about Checking and charging the 12-volt vehicle battery"
+      },
+      {
+        "question":"Show the details of the tyre pressure values"
+      },
+      {
+        "question":"List the Interior equipment in front view"
+      },
+      {
+        "question":"What is the vehicle dimension?"
+      }
+      
+      ]
+    },
+    {
+      "id":"1c15749284",
+      "uniqId":"3731dc641cM&M Serviceadmin",
+      "projectName":"Acumen360: TATA CV",
+      "productName":"TATA",
+      "assistantName":"Acumen360: TATA CV",
+      "questions":[{
+        "question":"How to use start stop button?"
+      },
+      {
+        "question":"How to stop the vehicle safely?"
+      },
+      {
+        "question":"Explain about Keys, locks and alarm system"
+      },
+      {
+        "question":"How to deactivate keyless locking?"
+      },
+      {
+        "question":"Explain about Child safety lock on the rear doors"
+      },
+      {
+        "question":"How to rectify blocked belt retractor?"
+      },
+      {
+        "question":"Explain about App-Connect settings"
+      },
+      {
+        "question":"Explain about Checking and charging the 12-volt vehicle battery"
+      },
+      {
+        "question":"Show the details of the tyre pressure values"
+      },
+      {
+        "question":"List the Interior equipment in front view"
+      },
+      {
+        "question":"What is the vehicle dimension?"
+      }
+      
+      ]
+    }
+  ]
